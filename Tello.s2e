@@ -11,7 +11,7 @@
 		[" ", "fly back with distance %n", "back", 20],
 		[" ", "rotate CW with angle %n", "cw", 90],
 		[" ", "rotate CCW with angle %n", "ccw", 90],
-		[" ", "flip with duration %s", "flip", "f"],
+		[" ", "flip with direction %s", "flip", "f"],
 		[" ", "set speed %n", "setspeed", 80],		
  	]
 }
